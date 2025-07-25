@@ -1,0 +1,10 @@
+*{
+   margin: 0;
+   padding: 0;
+} 
+
+body {
+  height: 100vh;
+  background-image: linear-gradient(#D8C7FF, #1900C7); 
+  font-family: "Audiowide", sans-serif;
+}
